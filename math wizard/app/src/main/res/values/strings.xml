@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Math Wizard</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="interstitial_ad_sample">Welcome</string>
+    <string name="next_level">Enter</string>
+
+    <!--    ad IDs-->
+    <string name="interstitial_ad_unit_id">ca-app-pub-1375172801279152/1477251476</string>
+    <string name="home_page_banner_ad">ca-app-pub-1375172801279152/3542772496</string>
+    <string name="test_page_banner_ad">ca-app-pub-1375172801279152/9684126123</string>
+    <string name="Enter_operator">Operator</string>
+    <string name="operator_hint">+ - / *</string>
+    <string name="number_of_digits">Number of Digits</string>
+    <string name="WhatsApp_not_installed_alert">WhatsApp not installed!</string>
+    <string name="default_score">Score: 0</string>
+    <string name="default_equation">Equation</string>
+    <string name="ansFieldHint">ENTER ANSWER</string>
+    <string name="check">Check</string>
+    <string name="send_report">Send report</string>
+    <string name="textview">Enter phone :</string>
+    <string name="enter_phone_number_hint">Enter phone number</string>
+</resources>
